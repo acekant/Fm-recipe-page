@@ -31,8 +31,8 @@ this challenge is available on fronted mentor a website where new frontend devel
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [solution URL](https://github.com/acekant/Fm-recipe-page)
+- Live Site URL: [live site URL](https://acekant.github.io/Fm-recipe-page/)
 
 ## My process
 
